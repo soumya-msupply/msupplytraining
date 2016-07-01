@@ -1,1 +1,2 @@
 This is master file from first user.
+This is master file from second user.
